@@ -1,0 +1,237 @@
+body{
+    list-style-type: none;
+}
+    h4 {
+        position: relative;
+        bottom: 61px;
+        left: 73px;
+        font-size: 25px;
+    }
+    
+    h3 {
+        font-size: 25px;
+        color: #75b33e;
+    }
+    .logo {
+        float: left;
+    }
+    
+    .liitem {
+        float: left;
+        margin-left: 268px;
+    }
+    ul.mainmenuitem li {
+        float: left;
+        padding: 19px;
+        list-style: none;
+        text-decoration: none;
+        text-transform: uppercase;
+        position: relative;
+        top: 7px;
+    }
+
+header {
+    position: relative;
+    top: -33px;
+    left: 33px;
+    
+    
+}
+
+.logo {
+    position: relative;
+    top: 15px;
+ 
+}
+ul.mainmenuitem li:hover{
+
+ color: #75b33e;
+ transition: 0.5s;
+
+
+
+}  
+
+.myimg img {
+    width: 56%;
+    position: relative;
+    left: 348px;
+    top: -80px;
+}
+
+
+.texttitle h2 {
+    position: relative;
+    top: 180px;
+    left: -70%;
+    font-size: 36px;
+}
+
+.texttitle span {
+    position: relative;
+    left: -71%;
+    top: 184px;
+    font-size: 29px;
+}
+
+.texttitle p {
+    top: 193px;
+    position: relative;
+    left: 5px;
+} 
+main {
+    background: rgb(255, 255, 255);
+    height: 343px;
+}
+
+main h1 {
+    position: relative;
+    left: 56%;
+    bottom: 46px;
+}
+
+.skill li {
+    text-align: center;
+    margin: 20px 0;
+    padding: 10px;
+}
+
+.skill{
+    width: 500px;
+
+}
+.bar{
+    background: #000000;
+    display: block;
+    height: 20px;
+border-radius:10px ;
+
+}
+
+span.bar {
+    position: relative;
+    top: 109px;
+}
+
+span.bar h3 {
+    margin-top: 144px;
+}
+
+
+.skill {
+    margin-left: 254px;
+}
+
+li h3 {
+    margin: auto;
+}
+.skill h1 {
+    margin-left: -97px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width:990px) {
+    ul.mainmenuitem li {
+      display: none;
+    }
+ 
+    .texttitle {
+        margin-left: 177px;
+    }
+
+    .texttitle h2{
+     position: relative;
+     top: 67px;
+
+    }
+    .texttitle span{
+position: relative;
+top:47px;
+
+    }
+    .texttitle p{
+position: relative;
+top: 39px;
+    left: -150px
+
+    }
+    .myimg img {
+        position: relative;
+        left: 143px;
+        top: -102px;
+        width: 174px;
+    }
+    main {
+        margin-left:-290px;
+    }
+   .skill{
+    margin-left: 194px;
+}
+    
+span.bar {
+    width: 287px;
+    position: relative;
+    left: 87px;
+}
+section {
+}
+
+}      
